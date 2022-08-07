@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 인터넷 쇼핑몰 리뷰를 통한 NLP감성분석 파이프라인 구축
 
 1. 서론
@@ -410,3 +411,7 @@ I won't be able to participate in leader election any longer Use zookeeper.elect
 - EKS에서 Kafka 배포
 - 데이터 전송 단의 로그 분석 대시보드 생성 (Grafana Dashboard)
 - 효율적인 협업 툴 사용
+=======
+# Datapipeline_Project
+WIP (22.06.28 ~ )
+>>>>>>> ef59ad26810d06643a7c3d9690935af10aa4440e

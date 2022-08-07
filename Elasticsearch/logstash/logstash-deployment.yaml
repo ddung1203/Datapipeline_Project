@@ -32,7 +32,6 @@ spec:
       containers:
         - name: logstash
           image: docker.elastic.co/logstash/logstash:7.10.2
-          imagePullPolicy: # 바꾸기
           resources:
             limits:
               cpu: 2000m
