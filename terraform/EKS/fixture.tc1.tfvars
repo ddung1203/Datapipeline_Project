@@ -14,9 +14,9 @@ enable_ssm          = true
 managed_node_groups = [
   {
     name          = "crawler"
-    min_size      = 3
+    min_size      = 1
     max_size      = 6
-    desired_size  = 3
+    desired_size  = 1
     instance_type = "t3.medium"
   },
 	{
