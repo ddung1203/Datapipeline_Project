@@ -89,8 +89,7 @@
 
 | Software | Reason for use |
 | --- | --- |
-| Virtual Box | Window 환경에서 Ubuntu 환경을 구축하기 위해 설치한
-가상화 소프트웨어 |
+| Virtual Box | Window 환경에서 Ubuntu 환경을 구축하기 위해 설치한 가상화 소프트웨어 |
 | Windows Terminal | 명령줄 셸에 대한 호스트 애플리케이션 |
 | Vscode | 코드 입력을 용이하게 해주는 소스 코드 에디터 |
 | Ubuntu | 리눅스 시스템 자동화에 적합한 OS |
